@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KiranaStore</string>
+    <string name="transferPay">Pay</string>
+    <string name="cashWithdraw">Withdraw</string>
+    <string name="transferPassbook">Passbook</string>
+    <string name="Recharge">Recharge &amp; Bill Pays</string>
+    <string name="rechargePrepaid">Prepaid</string>
+    <string name="rechargePostpaid">Postpaid</string>
+    <string name="rechargeElectricty">Electricity</string>
+    <string name="rechargeDTH">DTH</string>
+    <string name="rechargeGas">Gas</string>
+    <string name="rechargeInsurance">Insurance</string>
+    <string name="rechargeWater">Water</string>
+    <string name="rechargeLoan">Loan</string>
+    <string name="cashDeposite">Cash Deposite</string>
+    <string name="cashDeposit">Deposit</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_qrscan">Scan</string>
+    <string name="nav_statement">Statement</string>
+    <string name="login">Login</string>
+    <string name="aapna_bazar">Aapna Bazar</string>
+    <string name="Groceries">Groceries</string>
+    <string name="pinepale">Pineapple</string>
+    <string name="item">Item:</string>
+    <string name="cost">Cost:</string>
+    <string name="rs_75">Rs: 75</string>
+</resources>
